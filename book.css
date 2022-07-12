@@ -1,0 +1,22 @@
+#book{
+    width: 50%;
+    font-size: 23px;
+    margin: 0%;
+}
+.copy_right_footer{
+    color: grey;
+    position: fixed;
+    bottom: 0;
+    background-color: white;
+    text-align: center;
+    line-height: 3;
+    width: 100%;
+}
+body{
+    background-size: cover;
+}
+.heading{
+    width: 10%;
+    height: 4%;
+    font-size: larger;
+}
